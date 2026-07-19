@@ -1,0 +1,3 @@
+-- double obf btw. pretty hard to crack. and no src  is not the first one.
+
+loadstring(game:HttpGet("https://syncapp.lol/run/JhPParJ3IMAVWZ5bfVOVKXCNCyr4hdb2otcEagd9uUQ5E5ws8zhxhUkHhBQ"))()
